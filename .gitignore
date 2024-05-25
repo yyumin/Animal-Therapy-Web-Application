@@ -1,0 +1,12 @@
+# ignore Mac DS_Store files
+.DS_Store
+**/.DS_Store
+
+# ignore PhpStorm files
+.idea
+
+# ignore vscode files
+.vscode
+
+# ignore connection file
+db_conn.php
